@@ -1,0 +1,8 @@
+1. Exploring LLM-based Agents for Root Cause Analysis
+探索基于大语言模型的智能体用于根本原因分析
+2.OPENRCA: CAN LARGE LANGUAGE MODELS LOCATE THE ROOT CAUSE OF SOFTWARE FAILURES?
+大语言模型能否找到软件故障的根本原因
+3.NetRCA：An Effective Network Fault Cause Localization Algorithm
+NetRCA: 一种有效的网络故障原因定位算法
+4.5G Core Fault Detection and Root Cause Analysis using Machine Learning and Generative AI
+使用机器学习和生成式人工智能的5G核心故障检测和根本原因分析
