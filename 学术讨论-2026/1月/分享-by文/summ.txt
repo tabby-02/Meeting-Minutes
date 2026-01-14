@@ -1,0 +1,7 @@
+Design Patterns for Securing LLM Agents against Prompt Injections
+
+Progent: Programmable Privilege Control for LLM Agents
+
+AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents 
+
+AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection
